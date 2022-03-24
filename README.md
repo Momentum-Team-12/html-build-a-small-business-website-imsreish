@@ -1,8 +1,10 @@
+# Momentum Team 12, HW 1
+
 # Build a Small Business Website
 
-## Test header
+## Notes for this version
 
-This is evidence of an update in README.md
+No information is missing.
 
 ## Directions
 
